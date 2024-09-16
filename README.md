@@ -17,3 +17,11 @@ Trackam is **tailored for Sierra Leone**, handling challenges like poor road con
 - **💸 Save up to 30%** on operational costs.
 - **🚚 Increase efficiency by 25%** with optimized routes and vehicle use.
 - **🔧 Reduce maintenance costs** by 20% through real-time vehicle monitoring.
+
+## 🎥 Video Demo
+Check out our video demo to see Trackam in action:  
+[Watch Video on Vimeo](https://vimeo.com/1009957925?share=copy)
+
+## 🖥️ Demo & Design Links
+- **Trackam Demo**: [Canva Demo Design](https://www.canva.com/design/DAGQ79W5qU4/nEqKNrGYak3_JwN7-srHmQ/edit?utm_content=DAGQ79W5qU4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- **Figma Design**: [Trackam on Figma](https://www.figma.com/design/f8Vrja5hCHIjpxcQfdVqwS/TRACKAM-(Copy)?node-id=0-1&t=C4Gxc1WTQO1snfxJ-1)
